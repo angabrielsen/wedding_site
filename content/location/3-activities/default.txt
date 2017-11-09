@@ -1,0 +1,15 @@
+Title: Activities
+
+----
+
+Text: 
+
+**Jackson Square**
+700 Decatur St, New Orleans, LA 70116
++1 504-658-3200
+(link: http://jackson-square.com text: jackson-square.com)
+
+**Bourbon Vieux**
+501 Bourbon St, New Orleans, LA 70130
++1 504-586-1155
+(link: http://bourbonvieux.com text: bourbonvieux.com)

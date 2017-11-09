@@ -1,0 +1,47 @@
+/*
+  Icon Font: coastal-glyphs
+*/
+
+@font-face {
+  font-family: "coastal-glyphs";
+  src: url("./coastal-glyphs_588b9b653daccb2c29b1233933cb2fd8.eot");
+  src: url("./coastal-glyphs_588b9b653daccb2c29b1233933cb2fd8.eot?#iefix") format("embedded-opentype"),
+       url("./coastal-glyphs_588b9b653daccb2c29b1233933cb2fd8.woff") format("woff"),
+       url("./coastal-glyphs_588b9b653daccb2c29b1233933cb2fd8.ttf") format("truetype"),
+       url("./coastal-glyphs_588b9b653daccb2c29b1233933cb2fd8.svg#coastal-glyphs") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "coastal-glyphs";
+    src: url("./coastal-glyphs_588b9b653daccb2c29b1233933cb2fd8.svg#coastal-glyphs") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-arrow-down:before,
+.icon-arrow-left:before,
+.icon-arrow-right:before,
+.icon-arrow-up:before {
+  display: inline-block;
+  font-family: "coastal-glyphs";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-arrow-down:before { content: "\f104"; }
+.icon-arrow-left:before { content: "\f105"; }
+.icon-arrow-right:before { content: "\f106"; }
+.icon-arrow-up:before { content: "\f107"; }

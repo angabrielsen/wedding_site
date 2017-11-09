@@ -1,0 +1,26 @@
+Title: Hotels
+
+----
+
+Bannertext: 
+
+----
+
+Banner: 
+
+----
+
+Text: 
+
+(link: http://aloftneworleansdowntown.com text: Aloft New Orleans Downtown)
+*Recommended Hotel*
+225 Baronne St, New Orleans, LA 70112
++1 504-581-9225
+
+(link: http://marriott.com text: New Orleans Marriott)
+555 Canal St, New Orleans, LA 70130
++1 504-581-1000
+
+(link: http://www.marriott.com/hotels/travel/msyjw-jw-marriott-new-orleans/ text: JW Mariott New Orleans)
+614 Canal St, New Orleans, LA 70130
++1 504-525-6500

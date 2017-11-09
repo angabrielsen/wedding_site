@@ -1,0 +1,20 @@
+Title: Location
+
+----
+
+Bannertext: Location
+
+----
+
+Banner: nola1880.png
+
+----
+
+Text: 
+
+###(link: https://en.wikipedia.org/wiki/New_Orleans text: New Orleans)
+New Orleans is a Louisiana city on the Mississippi River, near the Gulf of Mexico. Nicknamed the "Big Easy," it's known for its round-the-clock nightlife, vibrant live-music scene and spicy, singular cuisine reflecting its history as a melting pot of French, African and American cultures. Embodying its festive spirit is Mardi Gras, the late-winter carnival famed for raucous costumed parades and public partying.
+
+----
+
+Map: https://www.google.com/maps/d/embed?mid=zYFVg23xm-iY.kAWnhnVMh7cQ
